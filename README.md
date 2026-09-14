@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F172A,100:2563EB&text=RITIK%20THAKUR&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=QA%20Automation%20Engineer&descAlignY=60&descSize=22&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,50:0F172A,100:2563EB&text=RITIK%20THAKUR&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=QA%20Automation%20Engineer&descAlignY=60&descSize=22&animation=fadeIn"/>
 
 </div>
 
@@ -17,6 +17,55 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&dur
 </div>
 
 <br>
+
+<!-- ========================= -->
+<!--       QUICK LINKS         -->
+<!-- ========================= -->
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ritik678-max/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://myportfolio-virid-omega-29.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ritik678-max">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- ========================= -->
+<!--         TECH STACK        -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white"/>
+
+</div>
+
+<br>
+
+<!-- ========================= -->
+<!--         PROFILE INFO      -->
+<!-- ========================= -->
 
 <div align="center">
 
@@ -33,29 +82,18 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&dur
 ```python
 class QAEngineer:
 
-    def __init__(self):
-        self.name = "Ritik Thakur"
-        self.role = "QA Automation Engineer"
+    name = "Ritik Thakur"
+    role = "QA Automation Engineer"
 
-        self.automation = [
-            "Playwright",
-            "Pytest",
-            "Appium"
-        ]
+    skills = [
+        "Playwright",
+        "Python",
+        "Pytest",
+        "API Testing",
+        "Appium",
+        "Docker",
+        "CI/CD"
+    ]
 
-        self.api_testing = [
-            "Postman",
-            "Swagger",
-            "REST API"
-        ]
-
-        self.devops = [
-            "Docker",
-            "GitHub Actions",
-            "CI/CD"
-        ]
-
-        self.goal = "QA Automation Engineer → SDET"
-
-    def current_focus(self):
-        return "Building scalable and reliable automation frameworks 🚀"
+    current_focus = "Building reliable automation frameworks 🚀"
+    goal = "QA Automation Engineer → SDET"
